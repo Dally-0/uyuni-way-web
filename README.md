@@ -19,6 +19,15 @@
   <a href="https://supabase.com/">
     <img src="https://img.shields.io/badge/Supabase-2-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
   </a>
+  <a href="https://uyuni-way.vercel.app">
+    <img src="https://img.shields.io/badge/Vercel-Deployed-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://uyuni-way.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Ver Demo en Vivo-uyuni--way.vercel.app-blue?style=for-the-badge" alt="Demo en vivo">
+  </a>
 </p>
 
 <p align="center">
@@ -27,6 +36,7 @@
   <a href="#-tecnologías">Tecnologías</a> •
   <a href="#-estructura-del-proyecto">Estructura</a> •
   <a href="#-instalación">Instalación</a> •
+  <a href="#-demo">Demo</a> •
   <a href="#-autores">Autores</a>
 </p>
 
@@ -205,6 +215,16 @@ Este proyecto fue desarrollado con el objetivo de **demostrar competencias en de
 - ✅ Diseño responsivo con TailwindCSS
 - ✅ Animaciones con Framer Motion
 - ✅ Buenas prácticas: ESLint, estructura de carpetas escalable, separación de responsabilidades
+
+---
+
+## 🌐 Demo
+
+> La aplicación está desplegada en producción y disponible públicamente:
+
+**🔗 [https://uyuni-way.vercel.app](https://uyuni-way.vercel.app)**
+
+Hosteada en [Vercel](https://vercel.com/) con deploy automático desde la rama `main`.
 
 ---
 
